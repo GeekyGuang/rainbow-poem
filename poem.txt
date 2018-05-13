@@ -5,6 +5,7 @@ Pink
 Orange
 Green
 Blue
+Batman
 Unicorn
 Yellow
 Red
